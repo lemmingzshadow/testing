@@ -1,1 +1,1 @@
-<?php echo 'just a file...';
+<?php echo 'just a test';
